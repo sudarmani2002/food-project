@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.logo{
+    height: 110%;
+    width: 20%;
+    float: left;
+    
+}
+h1{
+float: left;
+padding-left:15%;
+margin-top: 50px;
+font-size: 45px;
+}
+
+ul{
+    float: right;
+    list-style: none;
+    display: flex;
+    margin-top: 50px;
+}
+
+nav{
+    height: 130px;
+    background-color: orangered;
+    width: 100%;
+    text-transform: uppercase;
+    border-top-left-radius: 8cqb;
+    border-top-right-radius: 8cqb;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 22px;
+    cursor: pointer;
+    padding: 7px;
+    margin-top: 30%;
+}
+a:hover{
+    background-color: rgba(255, 255, 0, 0.445);
+    border-radius: 5cqb;
+}
+.homebanner{
+    width: 100%;
+    height: 400px;
+    margin-top: -9px;
+}
+
+.food{
+    border: 4px solid black;
+    border-radius: 5cap;
+    margin: 15px;
+}
+.ang{
+    text-decoration: none;
+    color: red;
+    font-size: 22px;
+    cursor: pointer;
+    padding: 7px;
+    margin-top: 30%;
+}
+#sudar{
+    background-color: orange;
+    width: 99%;
+    height: 65px;
+    padding-left: 15px;
+    margin-top: 5px;
+    padding-top: 8px;
+}
